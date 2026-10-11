@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Deck
+comment0.text=\r\n\ Manages\ the\ dungeon\ deck\ of\ Room\ Cards.\r\n\ Student\ Starter\ Code.\r\n
+comment1.params=
+comment1.target=Deck()
+comment2.params=
+comment2.target=void\ buildDeck()
+comment2.text=\r\n\ Populates\ the\ deck\ with\ initial\ cards.\ Fully\ provided.\r\n
+comment3.params=
+comment3.target=void\ shuffle()
+comment3.text=\r\n\ Randomizes\ the\ order\ of\ the\ cards\ in\ the\ ArrayList.\r\n
+comment4.params=
+comment4.target=Card\ drawCard()
+comment4.text=\r\n\ Removes\ and\ returns\ the\ top\ card\ from\ the\ deck.\r\n
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment5.text=\r\n\ Checks\ if\ the\ deck\ is\ empty.\r\n
+comment6.params=
+comment6.target=int\ size()
+comment6.text=\r\n\ Returns\ the\ current\ number\ of\ cards\ in\ the\ deck.\r\n
+numComments=7

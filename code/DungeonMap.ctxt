@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=DungeonMap
+comment0.text=\r\n\ Tracks\ the\ player's\ progress\ through\ the\ dungeon\ using\ a\ 2D\ Array.\r\n\ Student\ Starter\ Code.\r\n
+comment1.params=rows\ cols
+comment1.target=DungeonMap(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ DungeonMap.\ Fully\ provided.\r\n
+comment2.params=row\ col
+comment2.target=boolean\ isValidMove(int,\ int)
+comment2.text=\r\n\ Checks\ if\ a\ proposed\ move\ is\ within\ bounds\ and\ adjacent\ to\ a\ visited\ room.\r\n
+comment3.params=row\ col
+comment3.target=boolean\ isBossRoom(int,\ int)
+comment3.text=\r\n\ Checks\ if\ the\ given\ coordinates\ match\ the\ Boss's\ hidden\ location.\r\n
+comment4.params=row\ col\ result
+comment4.target=void\ markVisited(int,\ int,\ java.lang.String)
+comment4.text=\r\n\ Updates\ a\ specific\ cell\ in\ the\ 2D\ array\ to\ show\ it\ has\ been\ visited.\r\n
+comment5.params=
+comment5.target=java.lang.String\ printMap()
+comment5.text=\r\n\ Builds\ and\ returns\ a\ String\ representation\ of\ the\ entire\ map\ grid.\r\n
+comment6.params=
+comment6.target=int\ countCleared()
+comment6.text=\r\n\ Traverses\ the\ 2D\ array\ and\ counts\ how\ many\ cells\ are\ marked\ exactly\ "[CLEAR]".\r\n
+numComments=7

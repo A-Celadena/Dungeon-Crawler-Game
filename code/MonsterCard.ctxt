@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MonsterCard
+comment0.text=\r\n\ Subclass\ of\ Card\ representing\ a\ combat\ encounter.\r\n\ Student\ Starter\ Code.\r\n
+comment1.params=name\ description\ hp\ attackDamage
+comment1.target=MonsterCard(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getHp()
+comment3.params=
+comment3.target=int\ getAttackDamage()
+comment4.params=amount
+comment4.target=void\ takeDamage(int)
+comment5.params=p
+comment5.target=void\ applyEffect(Player)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

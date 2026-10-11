@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RestCard
+comment0.text=\r\n\ Subclass\ of\ Card\ representing\ a\ safe\ room\ that\ heals\ the\ player.\r\n\ Teacher\ Solution\ (Identical\ to\ Starter).\r\n
+comment1.params=healAmount
+comment1.target=RestCard(int)
+comment1.text=\r\n\ Constructor\ for\ a\ RestCard.\r\n\ @param\ healAmount\ The\ amount\ of\ HP\ to\ restore.\r\n
+comment2.params=p
+comment2.target=void\ applyEffect(Player)
+comment2.text=\r\n\ Heals\ the\ player\ by\ the\ healAmount.\r\n\ @param\ p\ The\ Player\ object.\r\n
+numComments=3

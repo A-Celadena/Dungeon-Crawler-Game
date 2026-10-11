@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TreasureCard
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TreasureCard\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ description\ newGoldAmount\ newRewardCard
+comment1.target=TreasureCard(java.lang.String,\ java.lang.String,\ int,\ ActionCard)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TreasureCard\r\n\ \r\n\ @param\ name\ \ the\ name\ of\ the\ ActionCard\r\n\ @param\ \ description\ \ how\ the\ ActionCard\ works/its\ function\r\n\ @param\ \ newGoldAmount\ \ how\ much\ gold\ they\ gained\ or\ lost\r\n\ @param\ \ newRewardCard\ what\ kind\ of\ RewardCard\ they\ will\ gain\r\n\ \r\n
+comment2.params=name\ description\ newGoldAmount
+comment2.target=TreasureCard(java.lang.String,\ java.lang.String,\ int)
+comment3.params=p
+comment3.target=void\ applyEffect(Player)
+comment3.text=\r\n\ Rewards\ the\ player\ by\ the\ goldAmount.\r\n\ @param\ p\ The\ Player\ object.\r\n
+numComments=4

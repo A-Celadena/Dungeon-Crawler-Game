@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BossCard
+comment0.text=\r\n\ Subclass\ of\ MonsterCard\ representing\ the\ final\ boss.\ \r\n\ Student\ Starter\ Code.\r\n
+comment1.params=name\ description\ hp\ attackDamage
+comment1.target=BossCard(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=p
+comment2.target=void\ applyEffect(Player)
+numComments=3
